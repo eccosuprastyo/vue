@@ -15,4 +15,5 @@ npm run serve
 npm run build
 ```
 
+Vue JS
 For complete tutorial you can visit my website https://camellabs.com/
